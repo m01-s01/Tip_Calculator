@@ -64,5 +64,5 @@ For **Firefox**
 
 Meenu Soni 👨‍💻
 
-- GitHub - [@SoniBasant](https://github.com/m01-s01)
+- GitHub - [@MeenuSoni](https://github.com/m01-s01)
 
