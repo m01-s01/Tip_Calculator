@@ -1,0 +1,9 @@
+<!-- filepath: c:\Users\ASUS\Desktop\protcoProjects\copyBest\B5-Tip-Calculator-App\images\icon-rupee.svg -->
+<svg width="16" height="20" viewBox="0 0 16 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g>
+    <path d="M3 5H13" stroke="#26C2AE" stroke-width="2" stroke-linecap="round"/>
+    <path d="M3 9H13" stroke="#26C2AE" stroke-width="2" stroke-linecap="round"/>
+    <path d="M8 5C10.2091 5 12 6.79086 12 9C12 11.2091 10.2091 13 8 13H6.5L13 19" stroke="#26C2AE" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <!-- <path d="M8 5V19" stroke="#26C2AE" stroke-width="2" stroke-linecap="round"/> -->
+  </g>
+</svg>
