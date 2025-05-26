@@ -1,22 +1,8 @@
-# Frontend Mentor - Tip calculator app solution
+# Tip calculator app solution
 
-This is a solution to the [Tip calculator app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/tip-calculator-app-ugJNGbJUX). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-## Table of contents
+### Overview
 
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-
-## Overview
-
-### The challenge
 
 Users should be able to:
 
@@ -34,11 +20,6 @@ Users should be able to:
 
 ![](images/tip-snap-2.png)
 
-### Links
-
-- Solution URL: [Source Code](https://github.com/SoniBasant/Frontend-Mentor-Projects/tree/main/B5-Tip-Calculator-App)
-
-- Live Site URL: [Live Link](https://sonibasant.github.io/Frontend-Mentor-Projects/B5-Tip-Calculator-App/index.html)
 
 ## My process
 
@@ -81,10 +62,7 @@ For **Firefox**
 
 ## Author
 
-Basant Soni 👨‍💻
+Meenu Soni 👨‍💻
 
-- GitHub - [@SoniBasant](https://github.com/SoniBasant)
+- GitHub - [@SoniBasant](https://github.com/m01-s01)
 
-- Frontend Mentor - [@SoniBasant](https://www.frontendmentor.io/profile/SoniBasant)
-- CodePen - [@SoniBasant](https://codepen.io/sonibasant)
-- Hashnode - [@SoniBasant](https://sonibasant.hashnode.dev/)
