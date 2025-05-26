@@ -1,4 +1,4 @@
-# Tip calculator app solution
+# Tip calculator app
 
 
 ### Overview
